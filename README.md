@@ -1,7 +1,4 @@
 <a id="readme-top"></a>
-
-<!-- PROJECT LOGO -->
-<br />
 <div align="center">
 
   <h1 align="center">MMSH-R2GO</h3>
