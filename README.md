@@ -35,11 +35,13 @@ A Windows telepítése után töltsük le a legfrisebb kiadását a programnak.
 <!-- USAGE EXAMPLES -->
 ## Használat
 
+**A programot rendszergazdaként indítsd el!**
+
 A program elindítását követően minden hálózati interfész frissítésre kerül, biztosítva a Wi-Fi kapcsolat létesítésének lehetőségét.
 
 Első lépésként válasszuk ki, hogy kívánunk-e csatlakozni a hálózathoz (csak belső hálózati csatlakozás lehetséges). 
 
-Ezt követően a háttérben elindul a Windows Update folyamata.
+Ezt követően a háttérben egy új PS ablakban elindul a Windows Update folyamata. Kérheti az ablak a NuGet add-ont, ha felhozza, csak nyomj egy ENTER-t.
 
 A frissítések futása közben automatikusan telepítésre kerül a Ninite, a Viber és a WhatsApp. A program a továbbiakban kikapcsolja a jelszólejárati funkciót minden felhasználó esetében, ezzel megelőzve, hogy a felhasználók olyan hibával találkozzanak, ahol a rendszer jelszó nélkül kéri a jelszó módosítását.
 
