@@ -56,8 +56,8 @@ Amennyiben igen, az xplace alkalmazás is automatikusan telepítésre kerül.
 ## Roadmap
 
 - [x] Program béta tesztje
-- [ ] Első végleges kiadás
-- [ ] Automatikus Windows telepítés
+- [x] Első végleges kiadás
+- [x] Automatikus Windows telepítés
 - [ ] Párbeszédablak nélküli telepítés
 
 <p align="right">(<a href="#readme-top">Vissza a tetejére</a>)</p>
