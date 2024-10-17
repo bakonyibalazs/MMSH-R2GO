@@ -57,8 +57,11 @@ Amennyiben igen, az xplace alkalmazás is automatikusan telepítésre kerül.
 
 - [x] Program béta tesztje
 - [x] Első végleges kiadás
-- [x] Automatikus Windows telepítés
+- [x] Automatikus Windows Update telepítés
+- [ ] Telepítő fájl automatikus frissítése
+- [ ] Külső telepítők letöltése (méret optimalizálás)
 - [ ] Párbeszédablak nélküli telepítés
+- [ ] Windows telepítő automatizálása
 
 <p align="right">(<a href="#readme-top">Vissza a tetejére</a>)</p>
 
