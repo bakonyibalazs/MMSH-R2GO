@@ -1,15 +1,10 @@
 <a id="readme-top"></a>
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Issues][issues-shield]][issues-url]
-
-
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
 
-  <h3 align="center">MMSH-R2GO</h3>
+  <h1 align="center">MMSH-R2GO</h3>
 
   <p align="center">
     MediaMarkt Ready2Go telepítő - Jelenleg csak a budaörsi áruházban működik
